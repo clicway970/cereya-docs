@@ -1,4 +1,16 @@
-# Cereya
+<p align="center">
+  <img src="assets/og-image.jpg" alt="Cereya" width="900">
+</p>
+
+<h1 align="center">
+Cereya
+</h1>
+
+<p align="center">
+
+Educational • Scientific • Privacy-first • Made in France
+
+</p>
 
 **Cereya** est une plateforme française dédiée à l’exploration pédagogique du fonctionnement cognitif.
 
