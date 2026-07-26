@@ -20,6 +20,8 @@ Cereya propose des questionnaires structurés, des exercices adaptés selon les 
 
 > Les outils Cereya ont une finalité informative et pédagogique. Ils ne constituent ni un diagnostic médical, ni un bilan psychologique, ni un test de quotient intellectuel réalisé par un professionnel.
 
+<a href="https://data.inpi.fr/marques/FR5275115" target="_blank" rel="noopener noreferrer"><strong>Marque française enregistrée à l’INPI · n° FR5275115</strong></a>
+
 ## Plateformes
 
 - [Cereya — site officiel](https://www.cereya.fr)
