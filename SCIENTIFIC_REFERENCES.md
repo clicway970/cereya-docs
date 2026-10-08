@@ -101,6 +101,15 @@ Cereya distingue clairement :
 
 Les noms WAIS et WISC sont des marques ou désignations appartenant à leurs ayants droit. Leur mention est uniquement documentaire.
 
+### Organisation des aptitudes cognitives et ressources ouvertes
+
+Les cadres suivants ont été consultés pour comprendre l'organisation des aptitudes cognitives chez l'adulte et les types d'épreuves décrits dans la littérature. Ils ne fournissent aucun item, seuil ou norme à Cereya.
+
+- McGrew, K. S. (2009). CHC theory and the human cognitive abilities project: Standing on the shoulders of the giants of psychometric intelligence research. *Intelligence*, 37(1), 1–10.
+- Condon, D. M., & Revelle, W. (2014). The International Cognitive Ability Resource: Development and initial validation of a public-domain measure. *Intelligence*, 43, 52–64.
+- Carpenter, P. A., Just, M. A., & Shell, P. (1990). What one intelligence test measures: A theoretical account of the processing in the Raven Progressive Matrices Test. *Psychological Review*, 97(3), 404–431.
+- Salthouse, T. A. (2010). Selective review of cognitive aging. *Journal of the International Neuropsychological Society*, 16(5), 754–760.
+
 ## Principes d’interprétation
 
 La littérature scientifique rappelle plusieurs limites importantes applicables aux questionnaires en ligne :
@@ -128,4 +137,4 @@ Cereya :
 
 Cette bibliographie publique est volontairement sélective. Elle peut être enrichie ou corrigée au fil de l’évolution de la documentation Cereya.
 
-Dernière mise à jour : juillet 2026.
+Dernière mise à jour : octobre 2026.

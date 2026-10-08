@@ -4,6 +4,16 @@ Ce journal présente uniquement les grandes évolutions visibles publiquement.
 
 Il ne décrit pas les modifications du moteur de scoring, les règles métier, les correctifs de sécurité, l’architecture interne ou les éléments propriétaires.
 
+## Octobre 2026
+
+### Nouvelle évaluation cognitive pour le haut potentiel chez l'adulte
+
+- nouveau parcours de dix épreuves cognitives originales : raisonnement, compréhension verbale, mémoire de travail et vitesse de traitement ;
+- un exemple corrigé avant chaque épreuve, passation d'environ 35 minutes sur téléphone ou ordinateur ;
+- résultat gratuit et rapport détaillé présentant une estimation, sa fourchette et quatre indices ;
+- disponibilité en français et en allemand ;
+- mise à jour des pages méthodologiques et des documents d'information.
+
 ## Juillet 2026
 
 ### Lancement de l’écosystème Cereya
